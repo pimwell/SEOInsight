@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'hello-world';
+  paragraph = "some content";
+  tasks = ['click that link', 'click that link right now!', 'if you care!!!']
 }

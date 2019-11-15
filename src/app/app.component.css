@@ -1,0 +1,16 @@
+title {text-align: center;}
+
+#main {
+    background-color: peachpuff;
+    text-align: center;
+}
+
+.ImpeachNow{
+    height: 100px;
+    width: 200px;
+    background-color: orange;
+    position: absolute;
+    text-align: center;
+    margin-left: 35%;
+    margin-right: auto;
+}
